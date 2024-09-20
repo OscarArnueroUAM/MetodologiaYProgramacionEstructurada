@@ -1,0 +1,7 @@
+C:\Users\ProBook 450 G4\source\repos\Ejemplo3\Ejemplo3\bin\Debug\Ejemplo3.exe.config
+C:\Users\ProBook 450 G4\source\repos\Ejemplo3\Ejemplo3\bin\Debug\Ejemplo3.exe
+C:\Users\ProBook 450 G4\source\repos\Ejemplo3\Ejemplo3\bin\Debug\Ejemplo3.pdb
+C:\Users\ProBook 450 G4\source\repos\Ejemplo3\Ejemplo3\obj\Debug\Ejemplo3.csproj.AssemblyReference.cache
+C:\Users\ProBook 450 G4\source\repos\Ejemplo3\Ejemplo3\obj\Debug\Ejemplo3.csproj.CoreCompileInputs.cache
+C:\Users\ProBook 450 G4\source\repos\Ejemplo3\Ejemplo3\obj\Debug\Ejemplo3.exe
+C:\Users\ProBook 450 G4\source\repos\Ejemplo3\Ejemplo3\obj\Debug\Ejemplo3.pdb
